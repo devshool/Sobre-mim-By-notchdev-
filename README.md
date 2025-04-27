@@ -21,7 +21,7 @@
 
 
 ```lua
-Notchdev@GitHub
+devshool@GitHub
 ▔▔▔▔▔▔▔▔▔
 OS: Windows 10 x64
 Shell: Windows Terminal
