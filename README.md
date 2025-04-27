@@ -17,7 +17,7 @@
 > Notchdev
 ```
 
-<a href="#"><img align="left" src="https://images.app.goo.gl/hFg378hTsmPHDi2z8" width="230"/> 
+<a href="#"><img align="left" src="https://imgur.com/JRKB5oc.png" width="230"/> 
 
 
 ```lua
